@@ -1,0 +1,76 @@
+{
+  "coffees": [
+    {
+      "id": "10",
+      "title": "Donuts Amargo",
+      "description": "O tradicional café feito com água quente e grãos moídos",
+      "tags": ["tradicional"],
+      "price": 12.9,
+      "image": "/images/donuts/image 30.png"
+    },
+    {
+      "id": "11",
+      "title": "Donuts Brigadeiro",
+      "description": "Expresso diluído, menos intenso que o tradicional",
+      "tags": ["tradicional"],
+      "price": 18.9,
+      "image": "/images/donuts/image 31.png"
+    },
+    {
+      "id": "12",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 32.png"
+    },
+    {
+      "id": "13",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 34.png"
+    },
+    {
+      "id": "14",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 35.png"
+    },
+    {
+      "id": "15",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 36.png"
+    },
+    {
+      "id": "16",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 37.png"
+    },
+    {
+      "id": "17",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 38.png"
+    },
+    {
+      "id": "18",
+      "title": "Donuts Cremoso",
+      "description": "Café expresso tradicional com espuma cremosa",
+      "tags": ["tradicional"],
+      "price": 14.9,
+      "image": "/images/donuts/image 39.png"
+    }
+  ]
+}
